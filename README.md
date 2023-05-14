@@ -1,4 +1,4 @@
 # higher_ground
-if you have a path layer, and a ground layer...
-and for some weird reason, you want to find the nearest ground to your path...
-#2 this. is the real shit!
+If you have a path layer, and a ground layer...<br>
+And want to find the nearest ground to the path.<br>
+It may work
